@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codewars/7-kyu/7kyu_alphabet-war.md",
+            "file": "codewars/7-kyu/7kyu_boiled-eggs.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/7-kyu/7kyu_alphabet-war.md",
+                "file": "codewars/7-kyu/7kyu_boiled-eggs.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,6 +149,7 @@
   },
   "active": "1d50b61f32cb2316",
   "lastOpenFiles": [
+    "codewars/7-kyu/7kyu_alphabet-war.md",
     "codewars/7-kyu/7kyu_sorted-yes-no-how.md",
     "codewars/7-kyu/7kyu_leap-years.md",
     "codewars/8-kyu/8kyu_capitalization-and-mutability.md",
@@ -157,7 +158,6 @@
     "codewars/7-kyu/7kyu_row-weights.md",
     "codewars/7-kyu/7kyu_the-coupon-code.md",
     "codewars/7-kyu/7kyu_alternate-capitalization.md",
-    "codewars/7-kyu/7kyu_round-up-to-the-next-multiple-of-5.md",
-    "codewars/8-kyu/8kyu_sum-arrays.md"
+    "codewars/7-kyu/7kyu_round-up-to-the-next-multiple-of-5.md"
   ]
 }
