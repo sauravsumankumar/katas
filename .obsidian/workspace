@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7496071f5592b1ac",
+        "id": "1e87b7ad7277875b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "7kyu_sum-of-minimuns.md",
+            "file": "codewars/8-kyu/8kyu_capitalization-and-mutability.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7kyu_sum-of-minimuns.md",
+                "file": "codewars/8-kyu/8kyu_capitalization-and-mutability.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,17 +147,17 @@
     "direction": "horizontal",
     "width": 232.5
   },
-  "active": "7496071f5592b1ac",
+  "active": "1d50b61f32cb2316",
   "lastOpenFiles": [
+    "().md",
+    "codewars/8-kyu/8kyu_capitalization-and-mutability.md",
+    "codewars/7-kyu/7kyu_sum-of-minimuns.md",
     "codewars/7-kyu/7kyu_row-weights.md",
     "codewars/7-kyu/7kyu_the-coupon-code.md",
     "codewars/7-kyu/7kyu_alternate-capitalization.md",
     "codewars/7-kyu/7kyu_round-up-to-the-next-multiple-of-5.md",
     "codewars/8-kyu/8kyu_sum-arrays.md",
     "codewars/7-kyu/7kyu_remove-duplicate-words.md",
-    "codewars/8-kyu/7kyu_remove-duplicate-words.md",
-    "codewars/7-kyu/7kyu_simple-fun-176-reverse-letter.md",
-    "codewars/7-kyu/7kyu_money-money-money.md",
-    "codewars/7-kyu/7kyu_sum-of-the-first-nth-term-of-series.md"
+    "codewars/8-kyu/7kyu_remove-duplicate-words.md"
   ]
 }
