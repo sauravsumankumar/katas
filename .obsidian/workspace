@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codewars/7-kyu/7kyu_the-coupon-code.md",
+            "file": "7kyu_sum-of-minimuns.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/7-kyu/7kyu_the-coupon-code.md",
+                "file": "7kyu_sum-of-minimuns.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,6 +149,8 @@
   },
   "active": "7496071f5592b1ac",
   "lastOpenFiles": [
+    "codewars/7-kyu/7kyu_row-weights.md",
+    "codewars/7-kyu/7kyu_the-coupon-code.md",
     "codewars/7-kyu/7kyu_alternate-capitalization.md",
     "codewars/7-kyu/7kyu_round-up-to-the-next-multiple-of-5.md",
     "codewars/8-kyu/8kyu_sum-arrays.md",
@@ -156,8 +158,6 @@
     "codewars/8-kyu/7kyu_remove-duplicate-words.md",
     "codewars/7-kyu/7kyu_simple-fun-176-reverse-letter.md",
     "codewars/7-kyu/7kyu_money-money-money.md",
-    "codewars/7-kyu/7kyu_sum-of-the-first-nth-term-of-series.md",
-    "codewars/7-kyu/7kyu_maximun-multiple.md",
-    "codewars/7-kyu/7kyu_are_the_numbers_in_order.md"
+    "codewars/7-kyu/7kyu_sum-of-the-first-nth-term-of-series.md"
   ]
 }
