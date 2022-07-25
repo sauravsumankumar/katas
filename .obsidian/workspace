@@ -109,7 +109,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "711b927fadefdf38",
@@ -133,7 +134,7 @@
             }
           },
           {
-            "id": "73c2d30a4cd216f3",
+            "id": "a4668c773afd2c91",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -147,7 +148,7 @@
     "direction": "horizontal",
     "width": 232.5
   },
-  "active": "1d50b61f32cb2316",
+  "active": "ff7d11ad801b5490",
   "lastOpenFiles": [
     "codewars/8-kyu/7kyu_form_the_minimun.md",
     "codewars/7-kyu/7kyu_fix_string_case.md",
