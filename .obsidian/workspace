@@ -57,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 140
+    "width": 349
   },
   "right": {
     "id": "72b363a1d9013184",
@@ -141,10 +141,10 @@
     "direction": "horizontal",
     "width": 232.5
   },
-  "active": "ff7d11ad801b5490",
+  "active": "1d50b61f32cb2316",
   "lastOpenFiles": [
     "codewars/8-kyu/7kyu_form_the_minimun.md",
-    "codewars/7-kyu/7kyu_fix_sting_case.md",
+    "codewars/7-kyu/7kyu_fix_string_case.md",
     "codewars/7-kyu/7kyu_summing_a_numbers_digits.md",
     "codewars/7-kyu/7kyu_remove_anchor_from_URL.md",
     "codewars/7-kyu/7kyu_anagram-direction.md",
