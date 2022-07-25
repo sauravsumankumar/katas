@@ -22,7 +22,7 @@ maxMultiple (2,7) ==> return (6)
 
 ---
 
-## Solution
+## Solution 1
 
 ``` javascript
 const maxMultiple = (divisor, bound) => {
@@ -32,4 +32,10 @@ const maxMultiple = (divisor, bound) => {
   }
   return result
 }
+```
+
+## Solution 2
+
+``` javascript
+maxMultiple=(divisor,bound)=>bound-bound%divisor
 ```
