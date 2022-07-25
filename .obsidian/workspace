@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "7kyu_sort_array_by_string_length.md",
+            "file": "codewars/7-kyu/7kyu_sort_array_by_string_length.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7kyu_sort_array_by_string_length.md",
+                "file": "codewars/7-kyu/7kyu_sort_array_by_string_length.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -109,8 +109,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "711b927fadefdf38",
@@ -148,7 +147,7 @@
     "direction": "horizontal",
     "width": 232.5
   },
-  "active": "ff7d11ad801b5490",
+  "active": "1d50b61f32cb2316",
   "lastOpenFiles": [
     "codewars/8-kyu/7kyu_form_the_minimun.md",
     "codewars/7-kyu/7kyu_fix_string_case.md",
