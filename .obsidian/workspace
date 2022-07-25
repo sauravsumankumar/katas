@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codewars/7-kyu/7kyu_sort_array_by_string_length.md",
+            "file": "Untitled.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/7-kyu/7kyu_sort_array_by_string_length.md",
+                "file": "Untitled.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,17 +147,17 @@
     "direction": "horizontal",
     "width": 232.5
   },
-  "active": "1d50b61f32cb2316",
+  "active": "ff7d11ad801b5490",
   "lastOpenFiles": [
+    "codewars/7-kyu/7kyu_two-to-one.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "README.md",
+    "codewars/7-kyu/7kyu_sort_array_by_string_length.md",
     "codewars/8-kyu/7kyu_form_the_minimun.md",
     "codewars/7-kyu/7kyu_fix_string_case.md",
     "codewars/7-kyu/7kyu_summing_a_numbers_digits.md",
     "codewars/7-kyu/7kyu_remove_anchor_from_URL.md",
-    "codewars/7-kyu/7kyu_anagram-direction.md",
-    "codewars/6-kyu/6kyu_reverse_and_rotate.md",
-    "codewars/6-kyu/6kyu_closures_and_scopes.md",
-    "conflict-files-obsidian-git.md",
-    "README.md",
-    "codewars/8-kyu/8kyu_remove-first-and-last-character.md"
+    "codewars/7-kyu/7kyu_anagram-direction.md"
   ]
 }
