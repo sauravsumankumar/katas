@@ -7,8 +7,13 @@
         "id": "7496071f5592b1ac",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "codewars/8-kyu/8kyu_sum-arrays.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "codewars/8-kyu/8kyu_sum-arrays.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,8 +147,9 @@
     "direction": "horizontal",
     "width": 232.5
   },
-  "active": "7496071f5592b1ac",
+  "active": "1d50b61f32cb2316",
   "lastOpenFiles": [
+    "codewars/7-kyu/7kyu_remove-duplicate-words.md",
     "codewars/8-kyu/7kyu_remove-duplicate-words.md",
     "codewars/7-kyu/7kyu_simple-fun-176-reverse-letter.md",
     "codewars/7-kyu/7kyu_money-money-money.md",
@@ -151,7 +158,6 @@
     "codewars/7-kyu/7kyu_are_the_numbers_in_order.md",
     "Untitled 1.md",
     "codewars/7-kyu/7kyu_two-to-one.md",
-    "README.md",
-    "codewars/7-kyu/7kyu_sort_array_by_string_length.md"
+    "README.md"
   ]
 }
