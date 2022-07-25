@@ -7,8 +7,13 @@
         "id": "ff7d11ad801b5490",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "7kyu_sort_array_by_string_length.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -57,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349
+    "width": 177
   },
   "right": {
     "id": "72b363a1d9013184",
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "7kyu_sort_array_by_string_length.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
