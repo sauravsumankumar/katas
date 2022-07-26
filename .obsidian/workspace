@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bed757837dc96189",
+        "id": "6be01ccd4cb94a88",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codewars/7-kyu/7kyu_even-numbers-in-an-array.md",
+            "file": "codewars/7-kyu/7kyu_flatten.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/7-kyu/7kyu_even-numbers-in-an-array.md",
+                "file": "codewars/7-kyu/7kyu_flatten.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,15 +149,15 @@
   },
   "active": "1d50b61f32cb2316",
   "lastOpenFiles": [
+    "().md",
+    "codewars/7-kyu/7kyu_flatten.md",
+    "codewars/7-kyu/7kyu_even-numbers-in-an-array.md",
     "codewars/7-kyu/7kyu_number-of-decimal-digits.md",
     "codewars/7-kyu/7kyu_higher-order-function-series-count-the-number-of-javascript-developers.md",
     "codewars/7-kyu/7kyu_simple-beads-count.md",
     "codewars/7-kyu/7kyu_sum-of-angles.md",
     "codewars/7-kyu/7kyu_bumps-in-the-road.md",
     "codewars/7-kyu/7kyu_suzuki-needs-help-lining-up-his-students.md",
-    "codewars/7-kyu/7kyu_testing-1-2-3.md",
-    "codewars/7-kyu/7kyu_predict-your-age.md",
-    "codewars/7-kyu/7kyu_sort-the-gift-code.md",
-    "codewars/7-kyu/7kyu_sum-of-numbers-from-0-to-n.md"
+    "codewars/7-kyu/7kyu_testing-1-2-3.md"
   ]
 }
