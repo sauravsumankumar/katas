@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1e87b7ad7277875b",
+        "id": "bed757837dc96189",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "codewars/7-kyu/7kyu_sort-the-gift-code.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/7-kyu/7kyu_sort-the-gift-code.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,17 +141,17 @@
     "direction": "horizontal",
     "width": 232.5
   },
-  "active": "1d50b61f32cb2316",
+  "active": "bed757837dc96189",
   "lastOpenFiles": [
+    "codewars/7-kyu/7kyu_testing-1-2-3.md",
+    "codewars/7-kyu/7kyu_predict-your-age.md",
+    "codewars/7-kyu/7kyu_sort-the-gift-code.md",
     "codewars/7-kyu/7kyu_sum-of-numbers-from-0-to-n.md",
     "codewars/7-kyu/7kyu_largest-pair-sum-in-array.md",
     "codewars/7-kyu/7kyu_boiled-eggs.md",
     "codewars/7-kyu/7kyu_alphabet-war.md",
     "codewars/7-kyu/7kyu_sorted-yes-no-how.md",
     "codewars/7-kyu/7kyu_leap-years.md",
-    "codewars/8-kyu/8kyu_capitalization-and-mutability.md",
-    "().md",
-    "codewars/7-kyu/7kyu_sum-of-minimuns.md",
-    "codewars/7-kyu/7kyu_row-weights.md"
+    "codewars/8-kyu/8kyu_capitalization-and-mutability.md"
   ]
 }
