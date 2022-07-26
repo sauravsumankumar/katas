@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codewars/7-kyu/7kyu_suzuki-needs-help-lining-up-his-students.md",
+            "file": "codewars/7-kyu/7kyu_bumps-in-the-road.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/7-kyu/7kyu_suzuki-needs-help-lining-up-his-students.md",
+                "file": "codewars/7-kyu/7kyu_bumps-in-the-road.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,6 +149,7 @@
   },
   "active": "1d50b61f32cb2316",
   "lastOpenFiles": [
+    "codewars/7-kyu/7kyu_suzuki-needs-help-lining-up-his-students.md",
     "codewars/7-kyu/7kyu_testing-1-2-3.md",
     "codewars/7-kyu/7kyu_predict-your-age.md",
     "codewars/7-kyu/7kyu_sort-the-gift-code.md",
@@ -157,7 +158,6 @@
     "codewars/7-kyu/7kyu_boiled-eggs.md",
     "codewars/7-kyu/7kyu_alphabet-war.md",
     "codewars/7-kyu/7kyu_sorted-yes-no-how.md",
-    "codewars/7-kyu/7kyu_leap-years.md",
-    "codewars/8-kyu/8kyu_capitalization-and-mutability.md"
+    "codewars/7-kyu/7kyu_leap-years.md"
   ]
 }
