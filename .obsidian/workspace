@@ -7,8 +7,13 @@
         "id": "bed757837dc96189",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "codewars/7-kyu/7kyu_suzuki-needs-help-lining-up-his-students.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "codewars/7-kyu/7kyu_suzuki-needs-help-lining-up-his-students.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +147,7 @@
     "direction": "horizontal",
     "width": 232.5
   },
-  "active": "bed757837dc96189",
+  "active": "1d50b61f32cb2316",
   "lastOpenFiles": [
     "codewars/7-kyu/7kyu_testing-1-2-3.md",
     "codewars/7-kyu/7kyu_predict-your-age.md",
