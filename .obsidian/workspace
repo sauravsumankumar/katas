@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "6kyu_multiplication-table.md",
+            "file": "codewars/6-kyu/6kyu_duplcate-encoder.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 136
+    "width": 134
   },
   "right": {
     "id": "72b363a1d9013184",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6kyu_multiplication-table.md",
+                "file": "codewars/6-kyu/6kyu_duplcate-encoder.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,6 +149,8 @@
   },
   "active": "6be01ccd4cb94a88",
   "lastOpenFiles": [
+    "codewars/6-kyu/6kyu_multiplication-table.md",
+    "codewars/6-kyu/6kyu_duplcate-encoder.md",
     "codewars/6-kyu/6kyu_twisted-sum.md",
     "codewars/7-kyu/7kyu_flatten.md",
     "().md",
@@ -156,8 +158,6 @@
     "codewars/7-kyu/7kyu_number-of-decimal-digits.md",
     "codewars/7-kyu/7kyu_higher-order-function-series-count-the-number-of-javascript-developers.md",
     "codewars/7-kyu/7kyu_simple-beads-count.md",
-    "codewars/7-kyu/7kyu_sum-of-angles.md",
-    "codewars/7-kyu/7kyu_bumps-in-the-road.md",
-    "codewars/7-kyu/7kyu_suzuki-needs-help-lining-up-his-students.md"
+    "codewars/7-kyu/7kyu_sum-of-angles.md"
   ]
 }

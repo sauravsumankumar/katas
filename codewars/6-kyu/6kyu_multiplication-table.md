@@ -1,4 +1,3 @@
-202208082107
 Name: **Multiplication table**
 Link: [Codewars](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)
 Level:  [[6 kyu]]
