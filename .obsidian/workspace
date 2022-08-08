@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codewars/7-kyu/7kyu_a-rule-of-divisibility-by-7.md",
+            "file": "codewars/7-kyu/7kyu_my-lenguage-skills.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/7-kyu/7kyu_a-rule-of-divisibility-by-7.md",
+                "file": "codewars/7-kyu/7kyu_my-lenguage-skills.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,6 +149,7 @@
   },
   "active": "6be01ccd4cb94a88",
   "lastOpenFiles": [
+    "codewars/7-kyu/7kyu_a-rule-of-divisibility-by-7.md",
     "codewars/6-kyu/6kyu_help-the-bookseller.md",
     "codewars/6-kyu/6kyu_duplcate-encoder.md",
     "codewars/6-kyu/6kyu_multiplication-table.md",
@@ -157,7 +158,6 @@
     "().md",
     "codewars/7-kyu/7kyu_even-numbers-in-an-array.md",
     "codewars/7-kyu/7kyu_number-of-decimal-digits.md",
-    "codewars/7-kyu/7kyu_higher-order-function-series-count-the-number-of-javascript-developers.md",
-    "codewars/7-kyu/7kyu_simple-beads-count.md"
+    "codewars/7-kyu/7kyu_higher-order-function-series-count-the-number-of-javascript-developers.md"
   ]
 }
