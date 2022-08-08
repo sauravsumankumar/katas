@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codewars/6-kyu/6kyu_twisted-sum.md",
+            "file": "6kyu_multiplication-table.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/6-kyu/6kyu_twisted-sum.md",
+                "file": "6kyu_multiplication-table.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,6 +149,7 @@
   },
   "active": "6be01ccd4cb94a88",
   "lastOpenFiles": [
+    "codewars/6-kyu/6kyu_twisted-sum.md",
     "codewars/7-kyu/7kyu_flatten.md",
     "().md",
     "codewars/7-kyu/7kyu_even-numbers-in-an-array.md",
@@ -157,7 +158,6 @@
     "codewars/7-kyu/7kyu_simple-beads-count.md",
     "codewars/7-kyu/7kyu_sum-of-angles.md",
     "codewars/7-kyu/7kyu_bumps-in-the-road.md",
-    "codewars/7-kyu/7kyu_suzuki-needs-help-lining-up-his-students.md",
-    "codewars/7-kyu/7kyu_testing-1-2-3.md"
+    "codewars/7-kyu/7kyu_suzuki-needs-help-lining-up-his-students.md"
   ]
 }

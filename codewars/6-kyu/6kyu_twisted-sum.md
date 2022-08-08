@@ -28,7 +28,7 @@ Find the sum of the digits of all the numbers from `1` to `N` (both ends inc
 ## Solution
 
 ``` javascript
-const twistedSum = n =>{
+const twistedSum = n => {
   let array = []
   
   for (let i=1; i<=n; i++){
