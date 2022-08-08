@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codewars/6-kyu/6kyu_duplcate-encoder.md",
+            "file": "codewars/6-kyu/6kyu_help-the-bookseller.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/6-kyu/6kyu_duplcate-encoder.md",
+                "file": "codewars/6-kyu/6kyu_help-the-bookseller.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,8 +149,8 @@
   },
   "active": "6be01ccd4cb94a88",
   "lastOpenFiles": [
-    "codewars/6-kyu/6kyu_multiplication-table.md",
     "codewars/6-kyu/6kyu_duplcate-encoder.md",
+    "codewars/6-kyu/6kyu_multiplication-table.md",
     "codewars/6-kyu/6kyu_twisted-sum.md",
     "codewars/7-kyu/7kyu_flatten.md",
     "().md",
