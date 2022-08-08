@@ -109,7 +109,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "711b927fadefdf38",
@@ -133,7 +134,7 @@
             }
           },
           {
-            "id": "a4668c773afd2c91",
+            "id": "c9d3903ebc4d70d4",
             "type": "leaf",
             "state": {
               "type": "git-view",
