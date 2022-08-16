@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codewars/6-kyu/6kyu_reverse-every-other-word-in-the-string.md",
+            "file": "codewars/7-kyu/7kyu_count-the-digit.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 134
+    "width": 134,
+    "collapsed": true
   },
   "right": {
     "id": "72b363a1d9013184",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/6-kyu/6kyu_reverse-every-other-word-in-the-string.md",
+                "file": "codewars/7-kyu/7kyu_count-the-digit.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,8 +148,9 @@
     "direction": "horizontal",
     "width": 232.5
   },
-  "active": "1d50b61f32cb2316",
+  "active": "6be01ccd4cb94a88",
   "lastOpenFiles": [
+    "codewars/6-kyu/6kyu_reverse-every-other-word-in-the-string.md",
     "codewars/7-kyu/7kyu_my-lenguage-skills.md",
     "codewars/7-kyu/7kyu_a-rule-of-divisibility-by-7.md",
     "codewars/6-kyu/6kyu_help-the-bookseller.md",
@@ -157,7 +159,6 @@
     "codewars/6-kyu/6kyu_twisted-sum.md",
     "codewars/7-kyu/7kyu_flatten.md",
     "().md",
-    "codewars/7-kyu/7kyu_even-numbers-in-an-array.md",
-    "codewars/7-kyu/7kyu_number-of-decimal-digits.md"
+    "codewars/7-kyu/7kyu_even-numbers-in-an-array.md"
   ]
 }
