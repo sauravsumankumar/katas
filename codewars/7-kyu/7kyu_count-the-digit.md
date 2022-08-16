@@ -55,9 +55,8 @@ const nbDig=(n, d)=> {
   
   for(let i=0; i <= n; i++) numsArr.push(i)
   
-  const square = numsArr.map(e=>e**2)
-  const findDigits = square
-          .map(e=>`${e}`.split('').map(n=>+n===d&&numberOfDigits++))
+  const square = numsArr.map(e=>e**2),
+	  findDigits = square.map(e=>`${e}`.split('').map(n=>+n===d&&numberOfDigits++))
   return numberOfDigits
 }
 ```
