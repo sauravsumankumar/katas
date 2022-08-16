@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codewars/7-kyu/7kyu_my-lenguage-skills.md",
+            "file": "codewars/6-kyu/6kyu_reverse-every-other-word-in-the-string.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/7-kyu/7kyu_my-lenguage-skills.md",
+                "file": "codewars/6-kyu/6kyu_reverse-every-other-word-in-the-string.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -109,8 +109,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "711b927fadefdf38",
@@ -148,8 +147,9 @@
     "direction": "horizontal",
     "width": 232.5
   },
-  "active": "6be01ccd4cb94a88",
+  "active": "1d50b61f32cb2316",
   "lastOpenFiles": [
+    "codewars/7-kyu/7kyu_my-lenguage-skills.md",
     "codewars/7-kyu/7kyu_a-rule-of-divisibility-by-7.md",
     "codewars/6-kyu/6kyu_help-the-bookseller.md",
     "codewars/6-kyu/6kyu_duplcate-encoder.md",
@@ -158,7 +158,6 @@
     "codewars/7-kyu/7kyu_flatten.md",
     "().md",
     "codewars/7-kyu/7kyu_even-numbers-in-an-array.md",
-    "codewars/7-kyu/7kyu_number-of-decimal-digits.md",
-    "codewars/7-kyu/7kyu_higher-order-function-series-count-the-number-of-javascript-developers.md"
+    "codewars/7-kyu/7kyu_number-of-decimal-digits.md"
   ]
 }
