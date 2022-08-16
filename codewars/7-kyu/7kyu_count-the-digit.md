@@ -48,16 +48,16 @@ function nbDig(n, d) {
 ## Solution2
 
 ``` javascript
-function nbDig(n, d) {
-  if (n < 0 || d < 0) return 
-  if (d > 9) return 
+const nbDig=(n, d)=> {
+  if (n < 0 || d < 0 || d > 9 ) return 
   
   let numsArr = [], numberOfDigits = 0
+  
   for(let i=0; i <= n; i++) numsArr.push(i)
   
   const square = numsArr.map(e=>e**2)
   const findDigits = square
-          .map(e=>`${e}`.split('')     .map(n=>+n===d&&numberOfDigits++))
+          .map(e=>`${e}`.split('').map(n=>+n===d&&numberOfDigits++))
   return numberOfDigits
 }
 ```
