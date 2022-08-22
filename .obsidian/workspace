@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "6kyu_are-they-the-same.md",
+            "file": "codewars/6-kyu/6kyu_are-they-the-same.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6kyu_are-they-the-same.md",
+                "file": "codewars/6-kyu/6kyu_are-they-the-same.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,11 +147,11 @@
     "direction": "horizontal",
     "width": 232.5
   },
-  "active": "6be01ccd4cb94a88",
+  "active": "1d50b61f32cb2316",
   "lastOpenFiles": [
-    "6kyu_meeting.md",
+    "codewars/6-kyu/6kyu_meeting.md",
     "codewars/6-kyu/6kyu_arrh-grabscrab.md",
-    "6kyu_length-of-missing-array.md",
+    "codewars/6-kyu/6kyu_length-of-missing-array.md",
     "codewars/6-kyu/6kyu_how-many-pages-in-a-book.md",
     "codewars/7-kyu/7kyu_count-the-digit.md",
     "codewars/6-kyu/6kyu_reverse-every-other-word-in-the-string.md",
