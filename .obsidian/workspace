@@ -133,7 +133,7 @@
             }
           },
           {
-            "id": "c9d3903ebc4d70d4",
+            "id": "160abccada1212d2",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -147,7 +147,7 @@
     "direction": "horizontal",
     "width": 232.5
   },
-  "active": "1d50b61f32cb2316",
+  "active": "c396acdbf59352dc",
   "lastOpenFiles": [
     "codewars/6-kyu/6kyu_meeting.md",
     "codewars/6-kyu/6kyu_arrh-grabscrab.md",
