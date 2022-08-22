@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codewars/7-kyu/7kyu_count-the-digit.md",
+            "file": "codewars/6-kyu/6kyu_how-many-pages-in-a-book.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 134,
-    "collapsed": true
+    "width": 134
   },
   "right": {
     "id": "72b363a1d9013184",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/7-kyu/7kyu_count-the-digit.md",
+                "file": "codewars/6-kyu/6kyu_how-many-pages-in-a-book.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -150,6 +149,7 @@
   },
   "active": "6be01ccd4cb94a88",
   "lastOpenFiles": [
+    "codewars/7-kyu/7kyu_count-the-digit.md",
     "codewars/6-kyu/6kyu_reverse-every-other-word-in-the-string.md",
     "codewars/7-kyu/7kyu_my-lenguage-skills.md",
     "codewars/7-kyu/7kyu_a-rule-of-divisibility-by-7.md",
@@ -158,7 +158,6 @@
     "codewars/6-kyu/6kyu_multiplication-table.md",
     "codewars/6-kyu/6kyu_twisted-sum.md",
     "codewars/7-kyu/7kyu_flatten.md",
-    "().md",
-    "codewars/7-kyu/7kyu_even-numbers-in-an-array.md"
+    "().md"
   ]
 }
