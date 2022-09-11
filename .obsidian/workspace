@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "6kyu_easter-egg-list-in-reactjs.md",
+            "file": "6kyu_react-fun-1_component-types-and-nesting.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6kyu_easter-egg-list-in-reactjs.md",
+                "file": "6kyu_react-fun-1_component-types-and-nesting.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,6 +149,8 @@
   },
   "active": "6be01ccd4cb94a88",
   "lastOpenFiles": [
+    "codewars/6-kyu/6kyu_are-they-the-same.md",
+    "6kyu_easter-egg-list-in-reactjs.md",
     "6kyu_does-my-number-look-big-in-this.md",
     "codewars/6-kyu/6kyu_delete-occurrences-of-an-element-if-it-occurs-more-than-n-times.md",
     "codewars/7-kyu/7kyu_largest-5-digit-number-in-a-series.md",
@@ -156,8 +158,6 @@
     "codewars/8-kyu/8kyu_reversed-words.md",
     "codewars/7-kyu/7kyu_maximum-length-difference.md",
     "codewars/6-kyu/6kyu_count-the-smiley-faces!.md",
-    "6kyu_two-sum.md",
-    "codewars/6-kyu/6kyu_make-the-deadfish-swim.md",
-    "codewars/6-kyu/6kyu_are-they-the-same.md"
+    "6kyu_two-sum.md"
   ]
 }
