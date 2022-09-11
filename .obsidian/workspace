@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codewars/6-kyu/6kyu_count-the-smiley-faces!.md",
+            "file": "codewars/7-kyu/7kyu_maximum-length-difference.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codewars/6-kyu/6kyu_count-the-smiley-faces!.md",
+                "file": "codewars/7-kyu/7kyu_maximum-length-difference.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,6 +149,7 @@
   },
   "active": "6be01ccd4cb94a88",
   "lastOpenFiles": [
+    "codewars/6-kyu/6kyu_count-the-smiley-faces!.md",
     "6kyu_two-sum.md",
     "codewars/6-kyu/6kyu_make-the-deadfish-swim.md",
     "codewars/6-kyu/6kyu_are-they-the-same.md",
@@ -157,7 +158,6 @@
     "codewars/6-kyu/6kyu_length-of-missing-array.md",
     "codewars/6-kyu/6kyu_how-many-pages-in-a-book.md",
     "codewars/7-kyu/7kyu_count-the-digit.md",
-    "codewars/6-kyu/6kyu_reverse-every-other-word-in-the-string.md",
-    "codewars/7-kyu/7kyu_my-lenguage-skills.md"
+    "codewars/6-kyu/6kyu_reverse-every-other-word-in-the-string.md"
   ]
 }
